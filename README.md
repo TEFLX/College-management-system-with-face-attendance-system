@@ -21,7 +21,7 @@ This project is a comprehensive College Management System that incorporates an A
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/college-management-system.git`
+1. Clone the repository: `git clone https://github.com/TEFLX/College-management-system-with-face-attendance-system.git`
 2. Navigate to the project directory: `cd college-management-system`
 3. Install the required dependencies: `pip install -r requirements.txt`
 
@@ -32,8 +32,10 @@ This project is a comprehensive College Management System that incorporates an A
 
 ## Documentation
 
-- [Use Case Diagram](![image](https://github.com/TEFLX/College-management-system-with-face-attendance-system/assets/164298793/14ef962f-f231-41df-b487-add40e3227c1))
-- [Data Flow Diagram](![image](https://github.com/TEFLX/College-management-system-with-face-attendance-system/assets/164298793/bd5421c6-84d7-4df3-a33b-9ea6f24e0867))
+- [Use Case Diagram]![image](https://github.com/TEFLX/College-management-system-with-face-attendance-system/assets/164298793/6324c258-6b39-412e-bbbf-579998be30e4)
+
+- [Data Flow Diagram]![image](https://github.com/TEFLX/College-management-system-with-face-attendance-system/assets/164298793/9992585c-5e36-4dd4-b53e-cd22b0aeaa23)
+
 
 ## Contributing
 
